@@ -2,7 +2,7 @@
 
 English:
 
-💰 OWC Paychecks – Persistent Salary System for VorpCore 💰
+**💰 OWC Paychecks – Persistent Salary System for VorpCore 💰**
 
 Make salaries more immersive and realistic in your RedM server with OWC Paychecks! Instead of instantly receiving money, paychecks are stored in the database until players collect them. Perfect for roleplay servers looking to enhance job-based progression.
 🛠 Features & Customization:
@@ -16,7 +16,7 @@ Enhance your server’s economy and roleplay depth with OWC Paychecks today!
 
 German:
 
-💰 OWC Paychecks – Persistentes Gehaltssystem für VorpCore 💰
+**💰 OWC Paychecks – Persistentes Gehaltssystem für VorpCore 💰**
 
 Bringe ein realistisches Gehaltssystem auf deinen RedM-Server! OWC Paychecks speichert Gehälter in der Datenbank, bis sie abgeholt werden – für mehr Immersion und eine tiefere Wirtschaftssimulation.
 🛠 Features & Anpassungsmöglichkeiten:
